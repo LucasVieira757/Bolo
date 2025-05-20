@@ -1,0 +1,28 @@
+Requisitos vagas internas homeoffice 
+
+
+Analista Sistemas PL
+
+Requisitos e qualificações:
+
+Diferencial ter graduação em Ciências da Computação, Análise de Sistemas, Tecnologia da Informação ou áreas relacionadas;
+Experiência com protocolos de comunicação entre sistemas;
+Saber sobre metodologias de Desenvolvimento de Software;
+Ter conhecimento em ambiente Linux e Cloud;
+Conhecimento e vivência em lógica de programação;
+Criação de script para automatização de processos e agilidade na análise de cenários como: procedures, views, cursores, shellscript, python ou linguagens similares;
+Inglês básico, para entendimento técnico;
+Desejável conhecimento em SAP (perfil Basis e linguagem ABAP).
+
+
+
+Analista Sistemas PL
+
+Diferencial ter graduação em Ciências da Computação, Análise de Sistemas, Tecnologia da Informação ou áreas relacionadas;
+Experiência com protocolos de comunicação entre sistemas;
+Saber sobre metodologias de Desenvolvimento de Software;
+Ter conhecimento em ambiente Linux e Cloud;
+Conhecimento e vivência em lógica de programação;
+Criação de script para automatização de processos e agilidade na análise de cenários como: procedures, views, cursores, shellscript, python ou linguagens similares;
+Inglês básico, para entendimento técnico;
+Desejável conhecimento em SAP (perfil Basis e linguagem ABAP).
