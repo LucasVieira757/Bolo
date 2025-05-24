@@ -1,0 +1,76 @@
+📌 1. O que espero de você na área?
+Hard Skills (Técnicas):
+Aprendizado contínuo: Espera-se que você esteja em constante aprendizado, especialmente em:
+SQL básico e intermediário (com foco em Oracle e Sqlserver).
+Lógica de programação com Python e Shell Script.
+Noções de sistemas operacionais (Linux e Windows).
+Familiarização com ferramentas de automação (como Control-M ou similares).
+Conceitos básicos de Cloud (Azure ou OCI) — mesmo que ainda não atue diretamente, é importante começar a entender os fundamentos.
+Soft Skills (Comportamentais):
+Proatividade: Buscar entender o contexto das demandas e antecipar possíveis problemas.
+Colaboração: Trabalhar bem com a equipe, pedir ajuda quando necessário e compartilhar aprendizados.
+Comunicação clara: Saber explicar o que está fazendo, levantar dúvidas e dar visibilidade sobre o andamento das tarefas.
+Responsabilidade: Cumprir prazos e compromissos, mesmo em tarefas menores.
+📈 2. Quais são os próximos passos possíveis para minha carreira aqui dentro?
+Curto prazo (6 a 12 meses):
+Consolidar conhecimentos técnicos em SQL, Linux e automação.
+Participar de projetos pequenos com supervisão.
+Começar a se envolver em rotinas de monitoramento e análise de dados.
+Médio prazo (1 a 2 anos):
+Assumir demandas com mais autonomia.
+Participar de projetos de melhoria contínua.
+Aprender sobre Cloud, DevOps e boas práticas de ITIL.
+Desenvolver habilidades de documentação e modelagem de processos.
+Longo prazo (2+ anos):
+Tornar-se referência técnica em alguma frente (dados, automação, cloud).
+Atuar como mentor de novos colegas.
+Evoluir para um cargo pleno e, futuramente, sênior.
+🔍 3. Você vê alguma entrega ou atitude recente que eu poderia ter feito diferente?
+Desafio / Atitude: Em relação as entregas vejo que pode avaliar possibilidades de análise e validações automáticas para minimizar o tempo de acompanhamento de CHG´s nas madrugadas.
+Atitude:  Incentivo você a trazer suas sugestões — mesmo que não sejam implementadas, elas mostram seu raciocínio e engajamento.
+💬 4. Como você avalia minha comunicação com a equipe e comigo?
+Pontos fortes: Você tem se mostrado respeitoso, aberto a feedbacks e disposto a aprender — isso é essencial.
+Oportunidades de melhoria: Pode trabalhar em dar mais visibilidade sobre o andamento das tarefas e em fazer perguntas mais específicas quando tiver dúvidas. Isso ajuda a acelerar seu desenvolvimento e evita retrabalho.
+ 
+Lucas, acredito que para um avanço de sua consolidação como analista de sistemas junior eu sugiro os pontos abaixo que podemos usar como referência para definição das metas na semana que vem.
+Avalie, e falamos com a Jaque.
+ 
+🧭 1. Objetivo de Carreira
+Evoluir de Analista de Sistemas Júnior em até 2 anos, com foco em automação, análise de dados e cloud computing.
+🧠 2. Competências a Desenvolver
+Hard Skills
+SQL (Oracle / PLSql)
+Shell Script
+Sistemas Operacionais (Linux e Windows)
+Ferramentas de automação (ex: Control-M)
+Fundamentos de Cloud (Aws, Azure ou OCI)
+Ferramentas de monitoramento e dashboards
+Noções de ETL e modelagem de dados
+Soft Skills
+Comunicação clara e objetiva
+Proatividade e autonomia
+Organização e gestão de tempo
+Colaboração e trabalho em equipe
+🎯 3. Ações e Metas
+Competência	Ação	Meta	Prazo
+SQL	Realizar curso de SQL intermediário	
+Concluir curso e aplicar em 3 scripts que solucionam problemas reais
+	3 meses
+Python	Criar scripts simples para automatizar tarefas	Automatizar 2 rotinas manuais	4 meses
+Cloud	
+Fazer curso introdutório de Azure / Aws (Fundations)
+	
+Obter certificação AZ-900 ou Aws essencial
+	6 meses
+Comunicação	Participar ativamente das dailies e reuniões	Compartilhar status semanalmente com clareza	Contínuo
+Proatividade	Sugerir melhorias em processos	Apresentar 1 proposta de melhoria por trimestre	Trimestral
+Monitoramento	
+Aprender a usar ferramenta de dashboard (ex: Grafana / Databriks)
+	Criar 1 painel funcional com dados reais	5 meses
+📏 4. Indicadores de Sucesso
+Entregas com menor necessidade de retrabalho
+Aumento da autonomia nas tarefas
+Feedbacks positivos da equipe e liderança
+Participação ativa em projetos e reuniões
+Conclusão de cursos e certificações
+ 
